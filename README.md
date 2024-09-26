@@ -1,1 +1,2 @@
 # Data-Professionals-Survey-Dashboard
+This Power BI dashboard provides a comprehensive overview of a survey conducted among 630 data professionals from various countries, including the US, India, and the UK. Key insights include the average age (29.87), average salaries for roles such as Data Scientist and Data Engineer, favorite programming languages (Python, R, etc.), and salary satisfaction by gender. The dashboard breaks down job roles by country, offering a clear snapshot of global trends in the data profession.
